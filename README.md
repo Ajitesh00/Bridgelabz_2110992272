@@ -21,3 +21,6 @@ Daily Task Updates
 
 ## 📅 19 May,2025
 - ✅ Read about Event Loop, Event Handlers, Type Conversions, "use strict", Comparisons, Conditional Branching.
+
+## 📅 20 May,2025
+- ✅ Grasped new concepts like Interaction: alert, prompt, confirm, Logical & Nullish coalescing operator, Polyfills and Transpilers.
