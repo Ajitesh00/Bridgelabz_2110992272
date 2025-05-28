@@ -27,3 +27,7 @@ Daily Task Updates
 
 ## 📅 21 May,2025
 - ✅ Practiced Recursion and stack, Rest parameters and spread syntax, Variable scope and closures.
+
+## 📅 22 May,2025
+- ✅ Implemented IIFE, NFE, "new Function" syntax, Scheduling (setTimeout, setInterval), Decorators and forwarding, call/apply, Function binding.
+
