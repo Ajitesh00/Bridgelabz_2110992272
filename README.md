@@ -12,3 +12,6 @@ Daily Task Updates
 
 ## 📅 15 May,2025
 - ✅ Revised all core JS programming concepts covered till now.
+
+## 📅 16 May,2025
+- ✅ Git Programming: Git & GitHub, Branching, Merging, Commits, Conflict Resolution, Feature & Version Management, PR Workflow, GitBash as Client Tool.
