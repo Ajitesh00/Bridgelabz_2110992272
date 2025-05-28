@@ -24,3 +24,6 @@ Daily Task Updates
 
 ## 📅 20 May,2025
 - ✅ Grasped new concepts like Interaction: alert, prompt, confirm, Logical & Nullish coalescing operator, Polyfills and Transpilers.
+
+## 📅 21 May,2025
+- ✅ Practiced Recursion and stack, Rest parameters and spread syntax, Variable scope and closures.
