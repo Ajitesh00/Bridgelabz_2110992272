@@ -33,3 +33,6 @@ Daily Task Updates
 
 ## 📅 23 May,2025
 - ✅ Practiced Data Structures and Algorithms, Solved several Leetcode problems.
+
+## 📅 26 May,2025
+- ✅ Practiced more DSA problems on Leetcode using techniques like Two-pointers, Sliding window, Hashing, etc.
