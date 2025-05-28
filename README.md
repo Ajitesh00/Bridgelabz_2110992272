@@ -9,3 +9,6 @@ Daily Task Updates
 
 ## 📅 14 May,2025
 - ✅ Learn about concepts like Arrow Functions, Iterables, Map and Set, WeakMap and WeakSet, Destructuring assignment.
+
+## 📅 15 May,2025
+- ✅ Revised all core JS programming concepts covered till now.
