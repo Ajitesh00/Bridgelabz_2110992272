@@ -31,3 +31,5 @@ Daily Task Updates
 ## 📅 22 May,2025
 - ✅ Implemented IIFE, NFE, "new Function" syntax, Scheduling (setTimeout, setInterval), Decorators and forwarding, call/apply, Function binding.
 
+## 📅 23 May,2025
+- ✅ Practiced Data Structures and Algorithms, Solved several Leetcode problems.
