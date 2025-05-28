@@ -6,3 +6,6 @@ Daily Task Updates
 
 ## 📅 13 May,2025
 - ✅ Practiced methods of primitives (toFixed, isInteger, toLowerCase, includes and many more), Numbers, Strings, Arrays, Array methods like forEach, filter, map, reduce.
+
+## 📅 14 May,2025
+- ✅ Learn about concepts like Arrow Functions, Iterables, Map and Set, WeakMap and WeakSet, Destructuring assignment.
