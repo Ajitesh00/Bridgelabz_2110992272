@@ -1,0 +1,32 @@
+<html>
+    <head></head>
+    <body>
+        <div style="display: flex; align-items: end; justify-content: center; gap: 30px;">
+        <button id="btn1" style="border-radius: 10px; height:100px; width:120px; background-color: beige; font-weight: bold;">Hover Over</button>
+        <button id="btn2" style="border-radius: 10px; height:100px; width:120px; background-color: wheat; font-weight: bold; box-shadow: 10px,10px,10px;">Click Me</button>
+        <button id="btn3" style="border-radius: 10px; height:100px; width:120px; background-color: aliceblue; font-weight: bold;">Press Key</button>
+        </div>
+        <script>
+            const btn1 = document.getElementById("btn1").addEventListener("mouseover",()=>{
+                let ans=prompt("Whats your name?");
+                alert("your name is "+ans);
+            }); 
+
+            // Adding an event listener
+            const btn2=document.getElementById("btn2");
+            btn2.addEventListener("click", function () {
+            let result = confirm("Do you want to proceed?");
+            if (result) {
+                alert("You pressed OK.");
+            } 
+            else {
+                alert("You pressed Cancel.");
+            }
+            });
+
+            const btn3 = document.getElementById("btn3").addEventListener("keydown",()=>{
+                alert("You Pressed a Key");
+            }); 
+        </script>
+    </body>
+</html>
