@@ -18,3 +18,6 @@ Daily Task Updates
 
 ## 📅 17 May,2025
 - ✅ Took an overview of NodeJS, NPM, OOP in JS.
+
+## 📅 19 May,2025
+- ✅ Read about Event Loop, Event Handlers, Type Conversions, "use strict", Comparisons, Conditional Branching.
