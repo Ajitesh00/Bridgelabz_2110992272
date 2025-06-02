@@ -36,3 +36,6 @@ Daily Task Updates
 
 ## 📅 26 May,2025
 - ✅ Practiced more DSA problems on Leetcode using techniques like Two-pointers, Sliding window, Hashing, etc.
+
+## 📅 27 May,2025
+- ✅ Implemented Searching and Sorting algorithms like Binary Search, Bubble Sort, Insertion Sort, Merge Sort, etc.
