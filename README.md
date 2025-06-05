@@ -42,3 +42,6 @@ Daily Task Updates
 
 ## 📅 28 May,2025
 - ✅ Solved multiple Leetcode problems on Linked List, Stack, etc.
+
+## 📅 29 May,2025
+- ✅ Implemented SOLID, DRY and YAGNI design principles.
