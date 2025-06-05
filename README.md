@@ -39,3 +39,6 @@ Daily Task Updates
 
 ## 📅 27 May,2025
 - ✅ Implemented Searching and Sorting algorithms like Binary Search, Bubble Sort, Insertion Sort, Merge Sort, etc.
+
+## 📅 28 May,2025
+- ✅ Solved multiple Leetcode problems on Linked List, Stack, etc.
