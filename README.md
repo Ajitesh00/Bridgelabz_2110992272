@@ -45,3 +45,6 @@ Daily Task Updates
 
 ## 📅 29 May,2025
 - ✅ Implemented SOLID, DRY and YAGNI design principles.
+
+## 📅 30 May,2025
+- ✅ Solved some more miscellaneous DSA problems on Leetcode.
