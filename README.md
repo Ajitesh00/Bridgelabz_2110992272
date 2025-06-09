@@ -48,3 +48,6 @@ Daily Task Updates
 
 ## 📅 30 May,2025
 - ✅ Solved some more miscellaneous DSA problems on Leetcode.
+
+## 📅 31 May,2025
+- ✅ Learn about advanced OOP concepts like Objects, Classes, Object references and copying, Garbage collection, Object methods, "this", Constructor, operator "new", Optional chaining '?.'.
