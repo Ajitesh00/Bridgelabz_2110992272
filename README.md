@@ -60,3 +60,6 @@ Daily Task Updates
 
 ## 📅 4 June,2025
 - ✅  Read about Async/await, Async iterationand generators, Currying, Hoisting, Callbacks, Microtasks.
+
+## 📅 5 June,2025
+- ✅  Took a revision of all the topics covered till now.
