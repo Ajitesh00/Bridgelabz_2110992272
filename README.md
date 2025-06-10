@@ -54,3 +54,6 @@ Daily Task Updates
 
 ## 📅 2 June,2025
 - ✅ Grasped more concepts like Prototypes, inheritance, Native prototypes, objects without __proto__, Class inheritance, Extending built-in classes.
+
+## 📅 3 June,2025
+- ✅ Learn about Promises, Promise chaining, Promise API, Error handling with promises, Custom errors, extending Error, Promisification.
