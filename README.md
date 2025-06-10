@@ -59,4 +59,4 @@ Daily Task Updates
 - ✅ Learn about Promises, Promise chaining, Promise API, Error handling with promises, Custom errors, extending Error, Promisification.
 
 ## 📅 4 June,2025
-- ✅  Read about Async/await, Async iterationand generators, Currying, Hoisting, Callbacks,Microtasks
+- ✅  Read about Async/await, Async iterationand generators, Currying, Hoisting, Callbacks, Microtasks.
