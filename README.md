@@ -51,3 +51,6 @@ Daily Task Updates
 
 ## 📅 31 May,2025
 - ✅ Learn about advanced OOP concepts like Objects, Classes, Object references and copying, Garbage collection, Object methods, "this", Constructor, operator "new", Optional chaining '?.', Object to primitive conversion, Property flags and descriptors, Property getters and setters.
+
+## 📅 2 June,2025
+- ✅ Grasped more concepts like Prototypes, inheritance, Native prototypes, objects without __proto__, Class inheritance, Extending built-in classes.
