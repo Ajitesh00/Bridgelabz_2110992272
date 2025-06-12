@@ -71,4 +71,7 @@ Daily Task Updates
 - ✅ Learn about various concepts like Normalization, ACID properties, Keys, Views, Indexing, etc.
 
 ## 📅 9 June,2025
-- ✅ Took an overview of MongoDB, Concept of NoSQL, Difference between SQL and NoSQL, Different Types of NoSQL, and Practiced CRUD operations with MongoDB
+- ✅ Took an overview of MongoDB, Concept of NoSQL, Difference between SQL and NoSQL, Different Types of NoSQL, and Practiced CRUD operations with MongoDB.
+
+## 📅 10 June,2025
+- ✅ Workd on MySQL Workbench as a Client Tool, Functions, Stored Procedures, Triggers, etc.
