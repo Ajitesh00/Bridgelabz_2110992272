@@ -74,4 +74,4 @@ Daily Task Updates
 - ✅ Took an overview of MongoDB, Concept of NoSQL, Difference between SQL and NoSQL, Different Types of NoSQL, and Practiced CRUD operations with MongoDB.
 
 ## 📅 10 June,2025
-- ✅ Workd on MySQL Workbench as a Client Tool, Functions, Stored Procedures, Triggers, etc.
+- ✅ Worked on MySQL Workbench as a Client Tool, Functions, Stored Procedures, Triggers, etc.
