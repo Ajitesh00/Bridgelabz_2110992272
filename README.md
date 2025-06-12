@@ -75,3 +75,6 @@ Daily Task Updates
 
 ## 📅 10 June,2025
 - ✅ Worked on MySQL Workbench as a Client Tool, Functions, Stored Procedures, Triggers, etc.
+
+## 📅 11 June,2025
+- ✅ Solved various SQL problems on Leetcode from SQL 50.
