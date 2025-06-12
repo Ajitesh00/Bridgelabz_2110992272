@@ -64,5 +64,5 @@ Daily Task Updates
 ## 📅 5 June,2025
 - ✅ Took a revision of all the topics covered till now.
 
-## 📅 5 June,2025
+## 📅 6 June,2025
 - ✅ Started with MySQL Database including DDL, DML, DCL Operations, Keys, Joins, Constraints, Aggregate Functions, etc.
