@@ -78,3 +78,6 @@ Daily Task Updates
 
 ## 📅 11 June,2025
 - ✅ Solved various SQL problems on Leetcode from SQL 50.
+
+## 📅 12 June,2025
+- ✅ Developed a CovidDB MySQL application to analyze pandemic data using advanced SQL queries such as calculating death percentage, states with the highest infection rates, etc.
