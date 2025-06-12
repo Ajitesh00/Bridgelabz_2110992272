@@ -59,7 +59,10 @@ Daily Task Updates
 - ✅ Learn about Promises, Promise chaining, Promise API, Error handling with promises, Custom errors, extending Error, Promisification.
 
 ## 📅 4 June,2025
-- ✅  Read about Async/await, Async iterationand generators, Currying, Hoisting, Callbacks, Microtasks.
+- ✅ Read about Async/await, Async iterationand generators, Currying, Hoisting, Callbacks, Microtasks.
 
 ## 📅 5 June,2025
-- ✅  Took a revision of all the topics covered till now.
+- ✅ Took a revision of all the topics covered till now.
+
+## 📅 5 June,2025
+- ✅ Started with MySQL Database including DDL, DML, DCL Operations, Keys, Joins, Constraints, Aggregate Functions, etc.
