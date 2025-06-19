@@ -82,5 +82,5 @@ Daily Task Updates
 ## 📅 12 June,2025
 - ✅ Developed a CovidDB MySQL application to analyze pandemic data using advanced SQL queries such as calculating death percentage, states with the highest infection rates, etc.
 
-## 📅 12 June,2025
+## 📅 13 June,2025
 - ✅ Learn about basic TypeScript concepts like JavaScript vs TypeScript, Special Types in TS (any, unknown, never), Functions, Generics, Transpilers, etc.
