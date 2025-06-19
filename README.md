@@ -84,3 +84,6 @@ Daily Task Updates
 
 ## 📅 13 June,2025
 - ✅ Learn about basic TypeScript concepts like JavaScript vs TypeScript, Special Types in TS (any, unknown, never), Functions, Generics, Transpilers, etc.
+
+## 📅 14 June,2025
+- ✅ Did Object Oriented Programming using TS, classes, Inheritance, Encapsulation, Access Modifiers, Abstraction, Interface, etc.
