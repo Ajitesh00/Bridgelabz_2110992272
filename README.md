@@ -87,3 +87,6 @@ Daily Task Updates
 
 ## 📅 14 June,2025
 - ✅ Did Object Oriented Programming using TS, classes, Inheritance, Encapsulation, Access Modifiers, Abstraction, Interface, etc.
+
+## 📅 16 June,2025
+- ✅ Practiced Exception Handling, Logging, File IO in TS, What is JSON.
