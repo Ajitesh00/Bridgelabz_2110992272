@@ -93,3 +93,6 @@ Daily Task Updates
 
 ## 📅 17 June,2025
 - ✅ Solved Address Book Problem using Typescript & OOP concepts and did some extra concepts like Union types, Enums, etc. 
+
+## 📅 18 June,2025
+- ✅ Took a revision of all the topics covered till now.
