@@ -102,4 +102,9 @@ SELECT * FROM ATTENDANCE;
 SELECT student_id, SUM(attended_classes) AS total_attended
 FROM ATTENDANCE
 GROUP BY student_id
+
 HAVING (total_attended>60);
+
+REVOKE INSERT ON employees FROM Ajitesh;
+
+GRANT ALL PRIVILEGES ON employees TO Ajitesh;
